@@ -1,0 +1,94 @@
+# Jeu de Formation pour Vendeurs
+
+Bienvenue dans le jeu de formation pour vendeurs ! Ce projet est un jeu interactif conçu pour former les vendeurs à effectuer des calculs rapides et à répondre aux questions des clients concernant les produits et leurs prix. Le jeu inclut des fonctionnalités telles que la gestion des niveaux de difficulté, un chronomètre pour limiter le temps de réponse, et un système de score.
+
+## Fonctionnalités
+
+- **Niveaux de difficulté** : facile, intermédiaire, difficile.
+- **Chronomètre** : Limite de temps pour répondre aux questions (10 secondes pour le niveau facile, 5 secondes pour les autres niveaux).
+- **Historique des réponses** : Enregistre les réponses des joueurs.
+- **Interface graphique** : Utilisation de Tkinter pour une interface utilisateur interactive.
+- **Vérification flexible des réponses** : Les réponses sont considérées comme correctes si elles contiennent le mot "oui", si elles contiennent au moins un mot correct, ou si elles sont des nombres équivalents (par exemple, 55.0 et 55).
+- **Gestion des fichiers** : Chargement des produits à partir d'un fichier CSV et des questions à partir d'un fichier JSON.
+- **Logging** : Enregistrement des transactions et des erreurs dans des fichiers de log.
+
+## Prérequis
+
+- Python 3.6 ou supérieur
+
+## Installation
+
+1. Clonez le dépôt :
+    ```sh
+    git clone https://github.com/votre-utilisateur/jeu-de-formation-vendeurs.git
+    ```
+2. Accédez au répertoire du projet :
+    ```sh
+    cd jeu-de-formation-vendeurs
+    ```
+3. Installez les dépendances requises (si nécessaire) :
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+## Utilisation
+
+1. Exécutez le script principal :
+    ```bash
+    python src/main.py
+    ```
+
+2. Suivez les instructions à l'écran pour choisir un niveau de difficulté et répondre aux questions.
+
+### Mode Interface Graphique
+
+Pour lancer le jeu en mode interface graphique, exécutez la commande suivante :
+```sh
+python src/main.py --gui
+```
+
+## Structure du Projet
+
+- `src/`
+  - `main.py` : Point d'entrée du programme.
+  - `models.py` : Définit les classes `Customer`, `Level`, et `Game`.
+  - `game_logic.py` : Contient la logique du jeu.
+  - `data_handler.py` : Gère le chargement et la sauvegarde des données.
+- `data/`
+  - `products.csv` : Fichier CSV contenant les produits.
+  - `questions.json` : Fichier JSON contenant les questions.
+
+## Exemple de Fichier `products.csv`
+
+```csv
+Type,Nom,Prix
+Boisson,Coca-Cola 1L,10.0
+Aliment,Thon en conserve,15.0
+...
+```
+
+## Exemple de Fichier `questions.json`
+
+```json
+{
+    "questions": [
+        {
+            "question": "Quel est le prix du Coca-Cola 1L ?",
+            "answer": "Le Coca-Cola 1L est à 10.0 MAD."
+        },
+        {
+            "question": "Combien font 5 + 3 ?",
+            "answer": 8
+        }
+        ...
+    ]
+}
+```
+
+## Contribuer
+
+Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou ouvrir une issue pour discuter des changements que vous souhaitez apporter.
+
+## Licence
+
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.

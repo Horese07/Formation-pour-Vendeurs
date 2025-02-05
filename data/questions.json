@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "question": "Quels types de boissons avez-vous ?",
+            "answer": "l'eau, des sodas, du jus, du lait et du café."
+        },
+        {
+            "question": "Avez-vous du thon en conserve ?",
+            "answer": "Oui, nous avons du thon Isabel et d'autres marques."
+        },
+        {
+            "question": "Quel est le prix du Coca-Cola 1L ?",
+            "answer": "Le Coca-Cola 1L est à 10.0 MAD."
+        },
+        {
+            "question": "Quels fromages vendus ici ?",
+            "answer": "Nous avons La Vache qui Rit, Kiri et Président."
+        },
+        {
+            "question": "Avez-vous du lait en poudre ?",
+            "answer": "Oui, nous avons du lait en poudre Régilait 500g."
+        },
+        {
+            "question": "Quels types de biscuits avez-vous ?",
+            "answer": "Nous avons Prince, Oreo, Petit Beurre Excelo et plus encore."
+        },
+        {
+            "question": "Avez-vous des pâtes alimentaires ?",
+            "answer": "Oui, nous avons des pâtes Tria, Dari et du couscous."
+        },
+        {
+            "question": "Quel est le prix du miel ?",
+            "answer": "Le miel d'oranger 500g coûte 55.0 MAD."
+        },
+        {
+            "question": "Avez-vous du chocolat ?",
+            "answer": "Oui, nous avons du chocolat Milka, Côte d'Or et Nutella."
+        },
+        {
+            "question": "Avez-vous des céréales pour le petit déjeuner ?",
+            "answer": "Oui, nous avons Chocapic, Nesquik et d'autres céréales."
+        },
+        {
+            "question": "Combien font 5 + 3 ?",
+            "answer": 8
+        },
+        {
+            "question": "Quel est le double de 6 ?",
+            "answer": 12
+        },
+        {
+            "question": "Quelle est la racine carrée de 49 ?",
+            "answer": 7
+        },
+        {
+            "question": "Quel est le résultat de 15 - 7 ?",
+            "answer": 8
+        },
+        {
+            "question": "Si un rectangle a une largeur de 4 et une longueur de 9, quelle est son aire ?",
+            "answer": 36
+        }
+    ]
+}

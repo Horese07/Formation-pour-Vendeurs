@@ -1,0 +1,79 @@
+2025-02-05 15:37:56,148 - INFO - Question posée : Si un rectangle a une largeur de 4 et une longueur de 9, quelle est son aire ? | Réponse : 36 | Score : 10
+2025-02-05 15:38:01,469 - INFO - Question posée : Quelle est la racine carrée de 49 ? | Réponse : 9 | Score : 10
+2025-02-05 15:38:12,196 - INFO - Question posée : Quel est le résultat de 15 - 7 ? | Réponse : 8 | Score : 20
+2025-02-05 15:38:16,029 - INFO - Question posée : Quelle est la racine carrée de 49 ? | Réponse : 9 | Score : 20
+2025-02-05 15:38:20,360 - INFO - Question posée : Quel est le résultat de 15 - 7 ? | Réponse : 8 | Score : 30
+2025-02-05 15:38:20,364 - INFO - Jeu terminé. Score final : 30
+2025-02-05 16:17:42,121 - INFO - Question posée : Quel est le prix du miel ? | Réponse : 55.0 MAD | Score : 0
+2025-02-05 16:17:54,945 - INFO - Question posée : Quel est le double de 6 ? | Réponse : 36 | Score : 0
+2025-02-05 16:18:01,744 - INFO - Question posée : Quel est le résultat de 15 - 7 ? | Réponse : 8 | Score : 10
+2025-02-05 16:18:14,327 - INFO - Question posée : Quels fromages vendus ici ? | Réponse : La vache qui rit | Score : 10
+2025-02-05 16:18:26,962 - INFO - Question posée : Si un rectangle a une largeur de 4 et une longueur de 9, quelle est son aire ? | Réponse : 36 | Score : 20
+2025-02-05 16:18:26,963 - INFO - Jeu terminé. Score final : 20
+2025-02-05 16:19:30,684 - INFO - Question posée : Quel est le prix du Coca-Cola 1L ? | Réponse : 6 MAD | Score : 0
+2025-02-05 16:19:41,988 - INFO - Question posée : Avez-vous des céréales pour le petit déjeuner ? | Réponse : oui | Score : 0
+2025-02-05 16:19:55,695 - INFO - Question posée : Avez-vous des céréales pour le petit déjeuner ? | Réponse : oui | Score : 0
+2025-02-05 16:20:10,346 - INFO - Question posée : Quelle est la racine carrée de 49 ? | Réponse : 7 | Score : 10
+2025-02-05 16:20:14,589 - INFO - Question posée : Avez-vous du thon en conserve ? | Réponse : oui | Score : 10
+2025-02-05 16:20:24,381 - INFO - Question posée : Quels fromages vendus ici ? | Réponse : tous | Score : 10
+2025-02-05 16:20:38,398 - INFO - Question posée : Quel est le prix du miel ? | Réponse : 55.0 | Score : 10
+2025-02-05 16:20:38,401 - INFO - Jeu terminé. Score final : 10
+2025-02-05 16:27:51,190 - INFO - Question posée : Quels fromages vendus ici ? | Réponse : la vache qui rit | Score : 10
+2025-02-05 16:27:58,439 - INFO - Question posée : Avez-vous du thon en conserve ? | Réponse : oui | Score : 10
+2025-02-05 16:46:03,818 - INFO - Question posée : Quels fromages vendus ici ? | Réponse : autre | Score : 10
+2025-02-05 16:46:18,998 - INFO - Question posée : Quels fromages vendus ici ? | Réponse : Président | Score : 10
+2025-02-05 16:46:24,589 - INFO - Question posée : Avez-vous du thon en conserve ? | Réponse : oui | Score : 10
+2025-02-05 16:46:24,589 - INFO - Jeu terminé. Score final : 10
+2025-02-05 17:04:45,585 - INFO - Question posée : Quel est le prix du Coca-Cola 1L ? | Réponse : 10 | Score : 0
+2025-02-05 17:04:55,579 - INFO - Question posée : Quelle est la racine carrée de 49 ? | Réponse : 7 | Score : 10
+2025-02-05 17:05:05,211 - INFO - Question posée : Quel est le prix du miel ? | Réponse : 55 | Score : 10
+2025-02-05 17:05:22,034 - INFO - Question posée : Combien font 5 + 3 ? | Réponse : 8 | Score : 10
+2025-02-05 17:06:02,754 - INFO - Question posée : Quelle est la racine carrée de 49 ? | Réponse : cls | Score : 10
+2025-02-05 17:06:02,755 - INFO - Jeu terminé. Score final : 10
+2025-02-05 17:08:37,834 - INFO - Question posée : Quels types de biscuits avez-vous ? | Réponse : nous avons | Score : 0
+2025-02-05 17:08:43,819 - INFO - Question posée : Quelle est la racine carrée de 49 ? | Réponse : 7 | Score : 10
+2025-02-05 17:08:46,403 - INFO - Question posée : Combien font 5 + 3 ? | Réponse : 8 | Score : 20
+2025-02-05 17:08:54,245 - INFO - Question posée : Quels fromages vendus ici ? | Réponse : nous avons | Score : 30
+2025-02-05 17:08:59,781 - INFO - Question posée : Avez-vous du lait en poudre ? | Réponse : oui | Score : 30
+2025-02-05 17:08:59,782 - INFO - Jeu terminé. Score final : 30
+2025-02-05 17:10:37,049 - INFO - Question posée : Quel est le double de 6 ? | Réponse : 12 | Score : 10
+2025-02-05 17:10:41,297 - INFO - Question posée : Avez-vous du thon en conserve ? | Réponse : oui | Score : 10
+2025-02-05 17:10:47,088 - INFO - Question posée : Avez-vous du thon en conserve ? | Réponse : oui, | Score : 20
+2025-02-05 17:10:55,999 - INFO - Question posée : Avez-vous du lait en poudre ? | Réponse : oui, | Score : 30
+2025-02-05 17:11:03,087 - INFO - Question posée : Quels types de boissons avez-vous ? | Réponse : coka cola | Score : 30
+2025-02-05 17:11:03,088 - INFO - Jeu terminé. Score final : 30
+2025-02-05 17:15:20,910 - INFO - Question posée : Combien font 5 + 3 ? | Réponse : 8 | Score : 10
+2025-02-05 17:15:23,821 - INFO - Question posée : Avez-vous des pâtes alimentaires ? | Réponse : cls | Score : 10
+2025-02-05 17:15:24,610 - INFO - Question posée : Avez-vous des pâtes alimentaires ? | Réponse : clc | Score : 10
+2025-02-05 17:15:26,333 - INFO - Question posée : Quel est le double de 6 ? | Réponse : cls | Score : 10
+2025-02-05 17:15:28,313 - INFO - Question posée : Quel est le double de 6 ? | Réponse : cls | Score : 10
+2025-02-05 17:15:28,314 - INFO - Jeu terminé. Score final : 10
+2025-02-05 17:16:27,774 - INFO - Question posée : Combien font 5 + 3 ? | Réponse : 10 | Score : 0
+2025-02-05 17:16:42,827 - INFO - Question posée : Quels types de boissons avez-vous ? | Réponse : oui, | Score : 0
+2025-02-05 17:16:49,613 - INFO - Question posée : Avez-vous du thon en conserve ? | Réponse : 8 | Score : 0
+2025-02-05 17:18:17,294 - INFO - Question posée : Combien font 5 + 3 ? | Réponse : vache qui rit | Score : 0
+2025-02-05 17:18:39,554 - INFO - Question posée : Quel est le prix du miel ? | Réponse : oui, | Score : 0
+2025-02-05 17:18:49,348 - INFO - Question posée : Quels fromages vendus ici ? | Réponse : oui, | Score : 0
+2025-02-05 17:19:01,846 - INFO - Question posée : Avez-vous du thon en conserve ? | Réponse : oui, | Score : 10
+2025-02-05 17:19:17,438 - INFO - Question posée : Avez-vous des céréales pour le petit déjeuner ? | Réponse : 7 | Score : 10
+2025-02-05 17:19:36,441 - INFO - Question posée : Quelle est la racine carrée de 49 ? | Réponse : oui, | Score : 0
+2025-02-05 17:22:29,272 - INFO - Question posée : Quels types de boissons avez-vous ? | Réponse : 12 | Score : 0
+2025-02-05 18:15:29,479 - INFO - Question posée : Quel est le prix du Coca-Cola 1L ? | Réponse : oui, | Score : 0
+2025-02-05 18:18:35,955 - INFO - Question posée : Quel est le double de 6 ? | Réponse : oui, | Score : 0
+2025-02-05 18:19:12,120 - INFO - Question posée : Quels types de biscuits avez-vous ? | Réponse : tous | Score : 0
+2025-02-05 18:19:21,853 - INFO - Question posée : Quels types de boissons avez-vous ? | Réponse : 8 | Score : 0
+2025-02-05 18:19:32,474 - INFO - Question posée : Quelle est la racine carrée de 49 ? | Réponse : oui, | Score : 0
+2025-02-05 18:37:01,437 - INFO - Question posée : Quels types de biscuits avez-vous ? | Réponse : oui, | Score : 0
+2025-02-05 18:38:02,701 - INFO - Question posée : Quels types de boissons avez-vous ? | Réponse : oui, | Score : 0
+2025-02-05 18:39:28,267 - INFO - Question posée : Quels types de boissons avez-vous ? | Réponse : 10 | Score : 0
+2025-02-05 18:40:24,362 - INFO - Question posée : Quel est le résultat de 15 - 7 ? | Réponse : 10 | Score : 0
+2025-02-05 19:53:39,916 - INFO - Question posée : Quels types de boissons avez-vous ? | Réponse : oui, | Score : 0
+2025-02-05 19:59:46,011 - INFO - Question posée : Quels types de biscuits avez-vous ? | Réponse : 10 | Score : 0
+2025-02-05 20:00:10,478 - INFO - Question posée : Quels fromages vendus ici ? | Réponse : oui, | Score : 0
+2025-02-05 20:00:25,601 - INFO - Question posée : Quel est le prix du miel ? | Réponse : 36 | Score : 0
+2025-02-05 20:03:53,793 - INFO - Question posée : Quels fromages vendus ici ? | Réponse : oui, | Score : 0
+2025-02-05 20:04:13,050 - INFO - Question posée : Quelle est la racine carrée de 49 ? | Réponse : coka cola | Score : 0
+2025-02-05 20:04:32,043 - INFO - Question posée : Avez-vous du thon en conserve ? | Réponse : oui, | Score : 10
+2025-02-05 20:04:43,498 - INFO - Question posée : Avez-vous du lait en poudre ? | Réponse : oui, | Score : 20
+2025-02-05 20:04:53,635 - INFO - Question posée : Quels fromages vendus ici ? | Réponse : 55 | Score : 20
+2025-02-05 20:11:32,166 - INFO - Question posée : Avez-vous des pâtes alimentaires ? | Réponse : 10 | Score : 0
