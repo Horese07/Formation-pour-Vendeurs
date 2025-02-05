@@ -20,11 +20,11 @@ Bienvenue dans le jeu de formation pour vendeurs ! Ce projet est un jeu interact
 
 1. Clonez le dépôt :
     ```sh
-    git clone https://github.com/votre-utilisateur/jeu-de-formation-vendeurs.git
+    git clone https://github.com/Horese07/Formation-pour-Vendeurs.git
     ```
 2. Accédez au répertoire du projet :
     ```sh
-    cd jeu-de-formation-vendeurs
+    cd Formation-pour-Vendeurs
     ```
 3. Installez les dépendances requises (si nécessaire) :
     ```sh
